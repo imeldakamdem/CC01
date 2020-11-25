@@ -19,7 +19,7 @@ namespace CC01.WinForms
     public partial class frmEtudiant : Form
     {
         private EtudiantBLO etudiantBLO;
-
+        
         public frmEtudiant()
         {
             InitializeComponent();
