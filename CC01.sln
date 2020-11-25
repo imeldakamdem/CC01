@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC01.WinForms", "CC01.WinFo
 		{D0E08801-1296-4BD0-8841-524857D6A605} = {D0E08801-1296-4BD0-8841-524857D6A605}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC01.Cons", "CC01.Cons\CC01.Cons.csproj", "{1847E6D6-1F12-454F-A3C0-E240CBCAC9D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{79FDA165-C1B6-445B-9956-EF4C05FDE7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79FDA165-C1B6-445B-9956-EF4C05FDE7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79FDA165-C1B6-445B-9956-EF4C05FDE7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1847E6D6-1F12-454F-A3C0-E240CBCAC9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1847E6D6-1F12-454F-A3C0-E240CBCAC9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1847E6D6-1F12-454F-A3C0-E240CBCAC9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1847E6D6-1F12-454F-A3C0-E240CBCAC9D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

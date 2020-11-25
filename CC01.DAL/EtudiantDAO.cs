@@ -87,7 +87,5 @@ namespace CC01.DAL
            etudiants[oldIndex] = newEtudiant;
             Save();
         }
-
-
     }
 }
